@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Welcome to my page</title>
+        <title>Welcome to my page</title>
 	<style>
 		body {background-color: lightblue;}
 	</style>
