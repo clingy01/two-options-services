@@ -17,7 +17,7 @@ color: white;}
 </style>
 </head>
 <body>
-<h1><img src="2optionslogo.png" alt="2OPTIONS logo"><br>2OPTIONS SERVICES</h1>
+<h1>2OPTIONS SERVICES</h1>
 <h2>Products</h2>
 <p>2OPTIONS SERVICES is a service provider that helps beginners in retail trading.</p>
 <h2>Learning</h2>
