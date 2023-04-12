@@ -14,6 +14,6 @@ color: white}
 <body>
 	<h1>Welcome to my page</h1>
 
-        <a href="./ABOUT">NEXT PAGE</a>
+        <a href="./about">NEXT PAGE</a>
 </body>
 </html>
