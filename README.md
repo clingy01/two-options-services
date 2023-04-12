@@ -2,7 +2,8 @@
 <head>
         <title>Welcome to my page</title>
 	<style>
-		body {background-color: black;}
+		body {background-color: lightblue;
+color: white}
 	</style>
 </head>
 <body>
