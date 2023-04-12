@@ -1,1 +1,11 @@
-# two-options-services
+<html>
+<head>
+        <title>Welcome to my page</title>
+	<style>
+		body {background-color: lightblue;}
+	</style>
+</head>
+<body>
+	<h1>Welcome to my page</h1>
+</body>
+</html>
