@@ -2,7 +2,7 @@
 <head>
         <title>Welcome to my page</title>
 	<style>
-		body {background-color: lightblue;}
+		body {background-color: black;}
 	</style>
 </head>
 <body>
